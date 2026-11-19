@@ -1,0 +1,16 @@
+house_id,sqft,bedrooms,bathrooms,floors,year_built,lot_size_(sqft),garage_spaces,has_pool,neighborhood,condition,dist_to_center,price,notes
+590,1426,1,1,2,2018,5688,2,0,Downtown,Good,2.7,326200,No notes
+489,1826,3,2,1,1976,5948,1,0,Rural,Good,8.625,183900,No notes
+754,2581,4,3,1,1965,10121,1,0,Suburb,Fair,7.55,393200,No notes
+995,1484,2,2,1,1975,4205,3,0,Uptown,Fair,1.9,285300,No notes
+885,2050,3,2,2,1984,4174,2,0,Downtown,Poor,2.8,318200,No notes
+758,2633,3,2,2,1961,8453,2,0,Uptown,Good,5.4,411900,No notes
+52,1681,3,2,2,2008,4209,2,0,Downtown,Good,9.7,384200,No notes
+416,1694,1,2,2,2017,7022,2,0,Suburb,Excellent,15.1,330500,No notes
+830,1687,3,1,1,1959,3337,1,0,Suburb,Good,15.2,217100,No notes
+62,1897,3,2,2,2006,7106,0,0,Suburb,Fair,11.3,334200,No notes
+28,1829,3,2,1,2022,5877,2,0,Downtown,Good,1.2,380100,No notes
+643,1651,1,1,1,2016,3551,3,0,Downtown,Good,2.9,348400,No notes
+993,1519,4,2,1,1991,2696,1,0,Lakeside,Good,21.2,365800,No notes
+355,1536,3,2,2,2002,5500,2,0,Suburb,Excellent,17.2,337900,No notes
+996,1724,3,2,2,1999,7739,1,0,Downtown,Good,14.5,277200,No notes
